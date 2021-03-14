@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KRJ\\Desktop\\Git\\SrvSampleBuild\\SrvSampleBuild\\SrvSampleBuild.csproj",
+      "projectUniqueName": "C:\\Users\\KRJ\\Desktop\\Git\\ApiBuildSample\\SrvSampleBuild.csproj",
       "projectName": "SrvSampleBuild",
-      "projectPath": "C:\\Users\\KRJ\\Desktop\\Git\\SrvSampleBuild\\SrvSampleBuild\\SrvSampleBuild.csproj",
+      "projectPath": "C:\\Users\\KRJ\\Desktop\\Git\\ApiBuildSample\\SrvSampleBuild.csproj",
       "packagesPath": "C:\\Users\\KRJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KRJ\\Desktop\\Git\\SrvSampleBuild\\SrvSampleBuild\\obj\\",
+      "outputPath": "C:\\Users\\KRJ\\Desktop\\Git\\ApiBuildSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
